@@ -1,0 +1,13 @@
+Admin Admin 123
+Customer BillCustomer doggy false  FOUR THREE out
+Customer BobCustomer mYPass false  FOUR THREE out
+Customer ChloeKat bubbles false  FOUR ONE THREE out
+Admin James231 3dsf4
+Customer NickT ThoBro false  FOUR ONE THREE out
+Customer NickTest Check false  out
+Steward Popeye5 Secret4 BillCustomer 30 BobCustomer 20 out
+Steward SGuy wet ChloeKat 20 NickT 30 out
+Steward Stew stew1 out
+Customer TestUser password true  out
+Customer lit litty false  out
+Steward testSteward testPass ChloeKat 2 NickT 2 out

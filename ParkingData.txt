@@ -1,0 +1,16 @@
+40 30 45 250
+FOUR testSteward 4.5 3 5  1 2 2  4 1 
+   A1 BobCustomer 1 1588277328866 1 false false 
+   B1 ChloeKat 2 1588272782089 2 true false 
+   C1 NickT 3 1588272782089 1 false true 
+   C2 BillCustomer 3 1588272782089 1 false false out
+ONE null 5.0 2 5  1 2  4 0 
+   A1 NickT 1 1588297716838 1 true false 
+   B1 ChloeKat 2 1588272782089 2 true false out
+THREE Popeye5 4.5 4 5  3 2 2 0  4 1 
+   A1 BobCustomer 1 1588272782089 1 false false 
+   A3 NickT 1 1588287009646 2 true false 
+   B1 ChloeKat 2 1588272782089 2 true false 
+   C1 NickT 3 1588272782089 1 false true 
+   C2 BillCustomer 3 1588272782089 1 false false out
+test1 null 35.0 5 5  0 0 0 0 0  5 0 out
